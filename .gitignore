@@ -1,2 +1,2 @@
 .DS_Store
-/first_django/__pycache__
+__pycache__/
